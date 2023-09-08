@@ -4,8 +4,7 @@ A mostly self-taught software developer.
 
 #### Active Projects
 
-- [Quaver](https://github.com/Quaver/Quaver) - Helping out fixing things
-- Some soon to be public things
+- Some for now private projects
 
 #### Other/Abandoned projects
 
@@ -17,3 +16,7 @@ A mostly self-taught software developer.
 - [Pight](https://github.com/Cumpany/Pight) - 3D puzzle game in a week
 
 - [AstolfoBot](https://github.com/WarpABoi/AstolfoBot) - General purpose discord bot
+
+#### Contributions
+
+- [Quaver](https://github.com/Quaver/Quaver) - Mostly fixing things
