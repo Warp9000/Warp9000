@@ -20,3 +20,13 @@ A mostly self-taught software developer.
 #### Contributions
 
 - [Quaver](https://github.com/Quaver/Quaver) - Mostly fixing things
+
+---
+
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WarpABoi&theme=github_dark)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WarpABoi&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WarpABoi&theme=github_dark)
+</div>
