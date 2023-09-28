@@ -8,14 +8,8 @@ A mostly self-taught software developer.
 
 #### Other/Abandoned projects
 
-- [Minesweeper](https://github.com/WarpABoi/Minesweeper) - Minesweeper in the terminal
-- [Tetris](https://github.com/WarpABoi/Tetris) - Tetris in monogame
-
-- [Shroomit](https://github.com/Cumpany/Shroomit) - Short adventure game made in a week
-- [TDSGGRLDCIE](https://github.com/Cumpany/TDSGGRLDCIE) - Another short game with weird movement (also in a week)
-- [Pight](https://github.com/Cumpany/Pight) - 3D puzzle game in a week
-
-- [AstolfoBot](https://github.com/WarpABoi/AstolfoBot) - General purpose discord bot
+- [Minesweeper](https://github.com/Warp9000/Minesweeper) - Minesweeper in the terminal
+- [Tetris](https://github.com/Warp9000/Tetris) - Tetris in monogame
 
 #### Contributions
 
@@ -25,8 +19,8 @@ A mostly self-taught software developer.
 
 <div align="center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WarpABoi&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Warp9000&theme=github_dark)
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WarpABoi&theme=github_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WarpABoi&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Warp9000&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Warp9000&theme=github_dark)
 </div>
