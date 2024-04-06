@@ -1,5 +1,4 @@
 <div align="center">
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Warp9000&theme=github_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Warp9000&theme=github_dark)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=warp9000&layout=donut&size_weight=0.5&count_weight=0.5&theme=transparent)
 </div>
